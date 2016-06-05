@@ -1,2 +1,4 @@
 # hello-world
-first repository
+
+Just a person trying to learn new things.
+
